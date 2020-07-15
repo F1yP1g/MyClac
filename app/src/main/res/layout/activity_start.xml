@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/calc_line1"
+    android:background="@drawable/startbg"
+    android:weightSum="1">
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="70dp"
+        android:gravity="center"
+        android:src="@drawable/math"
+        android:clickable="true"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/tip_tip"
+        android:textColor="@color/lime"/>
+
+    <Button
+        android:id="@+id/in"
+        android:layout_width="200dp"
+        android:layout_height="140dp"
+        android:layout_gravity="center"
+        android:background="@drawable/startbt"
+        android:clickable="true"
+        />
+</LinearLayout>

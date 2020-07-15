@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">"天天来运算"</string>
+    <string name="tip_tip">
+        "\n天天来运算V3.0\n\n"
+        "5道加减法\n\n"
+        "5道余数题\n\n"
+        "5道乘除法\n\n"
+        "10道混合题\n\n"
+        "你准备好了吗？\n\n"
+        " created by 卢赛"
+    </string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_clac">天天来运算</string>
+
+    <string name="about">
+        "\n\n\n"
+        "天天来运算V3.0\n\n"
+        "5道加减法\n\n"
+        "5道余数题\n\n"
+        "5道乘除法\n\n"
+        "10道混合题\n\n"
+        "注：加减法默认从1~100，乘除法2~9\n\n"
+        "新增：\n\n"
+        "聊天机器人:\n\n"
+        "小淘气，基于图灵机器人\n\n"
+        "注：当遇到不会的问题时会重复别人说话\n\n\n"
+    </string>
+    <string name="title_activity_main">天天来运算</string>>
+</resources>
